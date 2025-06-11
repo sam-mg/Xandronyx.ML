@@ -1,0 +1,6 @@
+.DS_Store
+.env
+.ipynb_checkpoints/
+Presentation/
+Docs/
+catboost_info/
