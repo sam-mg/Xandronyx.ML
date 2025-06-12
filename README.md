@@ -106,3 +106,7 @@ To train and evaluate models, open and run the respective notebook:
 ## 📄 License
 
 This project is licensed under the [Apache License 2.0](LICENSE).
+
+<p align="right">
+  <img src="https://wakatime.com/badge/user/f5bf5341-405c-480f-bd76-40a5c1a8ada9/project/eae08386-4c29-45cd-97fb-5f53c12b1198.svg" alt="WakaTime Repo Image" />
+</p>
